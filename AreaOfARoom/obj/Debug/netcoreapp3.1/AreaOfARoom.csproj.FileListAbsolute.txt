@@ -1,0 +1,13 @@
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\bin\Debug\netcoreapp3.1\AreaOfARoom.exe
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\bin\Debug\netcoreapp3.1\AreaOfARoom.deps.json
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\bin\Debug\netcoreapp3.1\AreaOfARoom.runtimeconfig.json
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\bin\Debug\netcoreapp3.1\AreaOfARoom.runtimeconfig.dev.json
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\bin\Debug\netcoreapp3.1\AreaOfARoom.dll
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\bin\Debug\netcoreapp3.1\AreaOfARoom.pdb
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.csprojAssemblyReference.cache
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.csproj.CoreCompileInputs.cache
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.AssemblyInfoInputs.cache
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.AssemblyInfo.cs
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.dll
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.pdb
+F:\Projects\NumberProblems\NumberProblems\AreaOfARoom\obj\Debug\netcoreapp3.1\AreaOfARoom.genruntimeconfig.cache
